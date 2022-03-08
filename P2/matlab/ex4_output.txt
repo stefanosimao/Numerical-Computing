@@ -1,0 +1,735 @@
+Author: Golub                Degree: 31 
+ 
+Wilkinson           
+TChan               
+Varah               
+Overton             
+Ernst               
+VanLoan             
+Saunders            
+Bojanczyk           
+Dubrulle            
+George              
+Nachtigal           
+Kahan               
+Varga               
+Kagstrom            
+Widlund             
+OLeary              
+Bjorck              
+Eisenstat           
+Zha                 
+VanDooren           
+Tang                
+Reichel             
+Luk                 
+Fischer             
+Gutknecht           
+Heath               
+Plemmons            
+Berry               
+Sameh               
+Meyer               
+Gill                
+__________________________________________________
+Author: Demmel               Degree: 15 
+ 
+Edelman             
+VanLoan             
+Bai                 
+Schreiber           
+Kahan               
+Kagstrom            
+Barlow              
+NHigham             
+Arioli              
+Duff                
+Hammarling          
+Bunch               
+Heath               
+Greenbaum           
+Gragg               
+__________________________________________________
+Author: Plemmons             Degree: 13 
+ 
+Golub               
+Nagy                
+Harrod              
+Pan                 
+Funderlic           
+Bojanczyk           
+George              
+Barlow              
+Heath               
+Berry               
+Sameh               
+Meyer               
+Nichols             
+__________________________________________________
+Author: Schreiber            Degree: 12 
+ 
+TChan               
+VanLoan             
+Moler               
+Gilbert             
+Pothen              
+NTrefethen          
+Bjorstad            
+NHigham             
+Eisenstat           
+Tang                
+Elden               
+Demmel              
+__________________________________________________
+Author: Heath                Degree: 12 
+ 
+Golub               
+TChan               
+Funderlic           
+George              
+Gilbert             
+Eisenstat           
+Ng                  
+Liu                 
+Laub                
+Plemmons            
+Paige               
+Demmel              
+__________________________________________________
+Author: TChan                Degree: 10 
+ 
+Golub               
+Saied               
+Ong                 
+Kuo                 
+Tong                
+Schreiber           
+Arioli              
+Duff                
+Heath               
+Hansen              
+__________________________________________________
+Author: VanDooren            Degree: 10 
+ 
+Golub               
+Boley               
+Bojanczyk           
+Kagstrom            
+VanHuffel           
+Luk                 
+Hammarling          
+Laub                
+Nichols             
+Paige               
+__________________________________________________
+Author: Hammarling           Degree: 10 
+ 
+Wilkinson           
+Kaufman             
+Bai                 
+Bjorck              
+VanHuffel           
+VanDooren           
+Duff                
+Greenbaum           
+Gill                
+Demmel              
+__________________________________________________
+Author: Gragg                Degree: 9 
+ 
+Borges              
+Kaufman             
+Harrod              
+Reichel             
+Stewart             
+BunseGerstner       
+Ammar               
+Warner              
+Demmel              
+__________________________________________________
+Author: VanLoan              Degree: 8 
+ 
+Golub               
+Moler               
+Schreiber           
+Kagstrom            
+Luk                 
+Bunch               
+Paige               
+Demmel              
+__________________________________________________
+Author: Moler                Degree: 8 
+ 
+Wilkinson           
+VanLoan             
+Gilbert             
+Schreiber           
+Henrici             
+Stewart             
+Bunch               
+Laub                
+__________________________________________________
+Author: George               Degree: 7 
+ 
+Golub               
+Eisenstat           
+Ng                  
+Liu                 
+Tang                
+Heath               
+Plemmons            
+__________________________________________________
+Author: Eisenstat            Degree: 7 
+ 
+Golub               
+Gu                  
+George              
+Schreiber           
+Liu                 
+Heath               
+Ipsen               
+__________________________________________________
+Author: Luk                  Degree: 7 
+ 
+Golub               
+Overton             
+Boley               
+VanLoan             
+Bojanczyk           
+Park                
+VanDooren           
+__________________________________________________
+Author: Gutknecht            Degree: 7 
+ 
+Golub               
+Ashby               
+Boley               
+NTrefethen          
+Nachtigal           
+Varga               
+Hochbruck           
+__________________________________________________
+Author: Paige                Degree: 7 
+ 
+Anjos               
+VanLoan             
+Saunders            
+Bjorck              
+VanDooren           
+Laub                
+Heath               
+__________________________________________________
+Author: NTrefethen           Degree: 6 
+ 
+Schreiber           
+Nachtigal           
+Reichel             
+Gutknecht           
+Greenbaum           
+ATrefethen          
+__________________________________________________
+Author: Bjorck               Degree: 6 
+ 
+Golub               
+Park                
+Duff                
+Hammarling          
+Elden               
+Paige               
+__________________________________________________
+Author: Reichel              Degree: 6 
+ 
+Golub               
+NTrefethen          
+Nachtigal           
+Fischer             
+Gragg               
+Ammar               
+__________________________________________________
+Author: Stewart              Degree: 6 
+ 
+Moler               
+Bunch               
+Gragg               
+Meyer               
+Gill                
+Mathias             
+__________________________________________________
+Author: Bunch                Degree: 6 
+ 
+LeBorne             
+Fierro              
+VanLoan             
+Moler               
+Stewart             
+Demmel              
+__________________________________________________
+Author: Meyer                Degree: 6 
+ 
+Golub               
+Benzi               
+Funderlic           
+Stewart             
+Ipsen               
+Plemmons            
+__________________________________________________
+Author: Gilbert              Degree: 5 
+ 
+Moler               
+Schreiber           
+Ng                  
+Liu                 
+Heath               
+__________________________________________________
+Author: Varga                Degree: 5 
+ 
+Golub               
+Marek               
+Young               
+Gutknecht           
+Starke              
+__________________________________________________
+Author: Kagstrom             Degree: 5 
+ 
+Golub               
+VanLoan             
+VanDooren           
+Ruhe                
+Demmel              
+__________________________________________________
+Author: Barlow               Degree: 5 
+ 
+Zha                 
+Ipsen               
+Plemmons            
+Nichols             
+Demmel              
+__________________________________________________
+Author: Widlund              Degree: 5 
+ 
+Golub               
+Bjorstad            
+OLeary              
+Smith               
+Szyld               
+__________________________________________________
+Author: Zha                  Degree: 5 
+ 
+Golub               
+Bai                 
+Barlow              
+VanHuffel           
+Hansen              
+__________________________________________________
+Author: Park                 Degree: 5 
+ 
+Boley               
+Bjorck              
+VanHuffel           
+Luk                 
+Elden               
+__________________________________________________
+Author: Liu                  Degree: 5 
+ 
+George              
+Gilbert             
+Eisenstat           
+Ng                  
+Heath               
+__________________________________________________
+Author: Duff                 Degree: 5 
+ 
+TChan               
+Bjorck              
+Arioli              
+Hammarling          
+Demmel              
+__________________________________________________
+Author: Laub                 Degree: 5 
+ 
+Kenney              
+Moler               
+VanDooren           
+Heath               
+Paige               
+__________________________________________________
+Author: Ipsen                Degree: 5 
+ 
+Chandrasekaran      
+Barlow              
+Eisenstat           
+Meyer               
+Jessup              
+__________________________________________________
+Author: Greenbaum            Degree: 5 
+ 
+Cullum              
+Strakos             
+NTrefethen          
+Hammarling          
+Demmel              
+__________________________________________________
+Author: Nichols              Degree: 5 
+ 
+Byers               
+Barlow              
+VanDooren           
+Plemmons            
+BunseGerstner       
+__________________________________________________
+Author: Wilkinson            Degree: 4 
+ 
+Golub               
+Dubrulle            
+Moler               
+Hammarling          
+__________________________________________________
+Author: Boley                Degree: 4 
+ 
+Park                
+VanDooren           
+Luk                 
+Gutknecht           
+__________________________________________________
+Author: Harrod               Degree: 4 
+ 
+Plemmons            
+Gragg               
+Berry               
+Sameh               
+__________________________________________________
+Author: Bojanczyk            Degree: 4 
+ 
+Golub               
+VanDooren           
+Luk                 
+Plemmons            
+__________________________________________________
+Author: Nachtigal            Degree: 4 
+ 
+Golub               
+NTrefethen          
+Reichel             
+Gutknecht           
+__________________________________________________
+Author: VanHuffel            Degree: 4 
+ 
+Zha                 
+Park                
+VanDooren           
+Hammarling          
+__________________________________________________
+Author: Arioli               Degree: 4 
+ 
+TChan               
+MuntheKaas          
+Duff                
+Demmel              
+__________________________________________________
+Author: Ng                   Degree: 4 
+ 
+George              
+Gilbert             
+Liu                 
+Heath               
+__________________________________________________
+Author: Hansen               Degree: 4 
+ 
+TChan               
+Fierro              
+OLeary              
+Zha                 
+__________________________________________________
+Author: BunseGerstner        Degree: 4 
+ 
+He                  
+Byers               
+Gragg               
+Nichols             
+__________________________________________________
+Author: Berry                Degree: 4 
+ 
+Golub               
+Harrod              
+Plemmons            
+Sameh               
+__________________________________________________
+Author: Sameh                Degree: 4 
+ 
+Golub               
+Harrod              
+Plemmons            
+Berry               
+__________________________________________________
+Author: Gill                 Degree: 4 
+ 
+Golub               
+Saunders            
+Hammarling          
+Stewart             
+__________________________________________________
+Author: Kaufman              Degree: 3 
+ 
+Hammarling          
+Gragg               
+Warner              
+__________________________________________________
+Author: Funderlic            Degree: 3 
+ 
+Heath               
+Plemmons            
+Meyer               
+__________________________________________________
+Author: Saunders             Degree: 3 
+ 
+Golub               
+Paige               
+Gill                
+__________________________________________________
+Author: Bai                  Degree: 3 
+ 
+Zha                 
+Hammarling          
+Demmel              
+__________________________________________________
+Author: Kahan                Degree: 3 
+ 
+Golub               
+Davis               
+Demmel              
+__________________________________________________
+Author: Bjorstad             Degree: 3 
+ 
+Schreiber           
+Widlund             
+Boman               
+__________________________________________________
+Author: OLeary               Degree: 3 
+ 
+Golub               
+Widlund             
+Hansen              
+__________________________________________________
+Author: NHigham              Degree: 3 
+ 
+Schreiber           
+Pothen              
+Demmel              
+__________________________________________________
+Author: Tang                 Degree: 3 
+ 
+Golub               
+George              
+Schreiber           
+__________________________________________________
+Author: Fischer              Degree: 3 
+ 
+Golub               
+Modersitzki         
+Reichel             
+__________________________________________________
+Author: Elden                Degree: 3 
+ 
+Schreiber           
+Bjorck              
+Park                
+__________________________________________________
+Author: Ammar                Degree: 3 
+ 
+He                  
+Reichel             
+Gragg               
+__________________________________________________
+Author: He                   Degree: 2 
+ 
+BunseGerstner       
+Ammar               
+__________________________________________________
+Author: Overton              Degree: 2 
+ 
+Golub               
+Luk                 
+__________________________________________________
+Author: Byers                Degree: 2 
+ 
+BunseGerstner       
+Nichols             
+__________________________________________________
+Author: Fierro               Degree: 2 
+ 
+Bunch               
+Hansen              
+__________________________________________________
+Author: Dubrulle             Degree: 2 
+ 
+Golub               
+Wilkinson           
+__________________________________________________
+Author: Marek                Degree: 2 
+ 
+Varga               
+Szyld               
+__________________________________________________
+Author: Kuo                  Degree: 2 
+ 
+TChan               
+Tong                
+__________________________________________________
+Author: Tong                 Degree: 2 
+ 
+TChan               
+Kuo                 
+__________________________________________________
+Author: Pothen               Degree: 2 
+ 
+Schreiber           
+NHigham             
+__________________________________________________
+Author: Young                Degree: 2 
+ 
+Kincaid             
+Varga               
+__________________________________________________
+Author: Szyld                Degree: 2 
+ 
+Marek               
+Widlund             
+__________________________________________________
+Author: Ruhe                 Degree: 2 
+ 
+Wold                
+Kagstrom            
+__________________________________________________
+Author: Warner               Degree: 2 
+ 
+Kaufman             
+Gragg               
+__________________________________________________
+Author: Jessup               Degree: 2 
+ 
+Crevelli            
+Ipsen               
+__________________________________________________
+Author: Hochbruck            Degree: 2 
+ 
+Gutknecht           
+Starke              
+__________________________________________________
+Author: Starke               Degree: 2 
+ 
+Varga               
+Hochbruck           
+__________________________________________________
+Author: Varah                Degree: 1 
+ 
+Golub               
+__________________________________________________
+Author: Kenney               Degree: 1 
+ 
+Laub                
+__________________________________________________
+Author: Ashby                Degree: 1 
+ 
+Gutknecht           
+__________________________________________________
+Author: LeBorne              Degree: 1 
+ 
+Bunch               
+__________________________________________________
+Author: Modersitzki          Degree: 1 
+ 
+Fischer             
+__________________________________________________
+Author: Ernst                Degree: 1 
+ 
+Golub               
+__________________________________________________
+Author: Borges               Degree: 1 
+ 
+Gragg               
+__________________________________________________
+Author: Kincaid              Degree: 1 
+ 
+Young               
+__________________________________________________
+Author: Crevelli             Degree: 1 
+ 
+Jessup              
+__________________________________________________
+Author: Anjos                Degree: 1 
+ 
+Paige               
+__________________________________________________
+Author: Benzi                Degree: 1 
+ 
+Meyer               
+__________________________________________________
+Author: Gu                   Degree: 1 
+ 
+Eisenstat           
+__________________________________________________
+Author: Nagy                 Degree: 1 
+ 
+Plemmons            
+__________________________________________________
+Author: Pan                  Degree: 1 
+ 
+Plemmons            
+__________________________________________________
+Author: Edelman              Degree: 1 
+ 
+Demmel              
+__________________________________________________
+Author: Cullum               Degree: 1 
+ 
+Greenbaum           
+__________________________________________________
+Author: Strakos              Degree: 1 
+ 
+Greenbaum           
+__________________________________________________
+Author: Saied                Degree: 1 
+ 
+TChan               
+__________________________________________________
+Author: Ong                  Degree: 1 
+ 
+TChan               
+__________________________________________________
+Author: Wold                 Degree: 1 
+ 
+Ruhe                
+__________________________________________________
+Author: Chandrasekaran       Degree: 1 
+ 
+Ipsen               
+__________________________________________________
+Author: Boman                Degree: 1 
+ 
+Bjorstad            
+__________________________________________________
+Author: MuntheKaas           Degree: 1 
+ 
+Arioli              
+__________________________________________________
+Author: Smith                Degree: 1 
+ 
+Widlund             
+__________________________________________________
+Author: Henrici              Degree: 1 
+ 
+Moler               
+__________________________________________________
+Author: ATrefethen           Degree: 1 
+ 
+NTrefethen          
+__________________________________________________
+Author: Davis                Degree: 1 
+ 
+Kahan               
+__________________________________________________
+Author: Mathias              Degree: 1 
+ 
+Stewart             
+__________________________________________________
+ex5

@@ -1,0 +1,19 @@
+Golub and Moler common coauthors (2): 
+ 
+Wilkinson           
+VanLoan             
+__________________________________________________
+
+Golub and Saunders common coauthors (1): 
+ 
+Gill                
+__________________________________________________
+
+TChan and Demmel common coauthors (4): 
+ 
+Schreiber           
+Arioli              
+Duff                
+Heath               
+__________________________________________________
+ex6(name,A)
